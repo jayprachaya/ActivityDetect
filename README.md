@@ -20,7 +20,13 @@ Streamlit app:
 # Model
 - Model Training: Use pretrained model `YOLOv5s`
   https://github.com/ultralytics/yolov5
-- Train on Colab
+- Train on Colab 500 epochs
 
 # Result
+  | Image class  | Images  | Labels  | Precision | Recall | mAP@.5 | mAP@.5:.95 |
+  | ------------ | ------- | ------- | --------- | ------ | ------ | ---------- |
+  | All          | 42      | 58      | 0.965     | 0.998  | 0.993  | 0.914      |
+  
+  mAP: mean average precision
+  
 <img src="https://github.com/jayprachaya/ActivityDetect/blob/f9a542c5d391a71dd5e6ec8c1ff5b351196e4590/img/results.png" style="max-width: 20%;" align="center" />
