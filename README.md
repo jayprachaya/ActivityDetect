@@ -29,4 +29,5 @@ Streamlit app:
   
   mAP: mean average precision
   
+ Training result
 <img src="https://github.com/jayprachaya/ActivityDetect/blob/f9a542c5d391a71dd5e6ec8c1ff5b351196e4590/img/results.png" style="max-width: 20%;" align="center" />
