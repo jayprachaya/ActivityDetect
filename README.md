@@ -1,2 +1,2 @@
-# ActivityDetect
-Person activity detection by yolov5
+# Person Activity Detection
+
