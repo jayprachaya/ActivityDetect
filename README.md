@@ -11,7 +11,6 @@
   | Sit          | 68      | 13         |
   | Sleep        | 73      | 14         |
   | Stand        | 64      | 13         |
-  | Multi-calss  | 10      | 2          | 
 
 - Annotation Tools: LabelImg (YOLO format)
   https://github.com/tzutalin/labelImg
